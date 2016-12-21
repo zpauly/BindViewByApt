@@ -1,0 +1,1 @@
+include ':app', ':bind-annotations', ':bind-compiler', ':bind'
